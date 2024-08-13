@@ -1,0 +1,30 @@
+body{
+
+    background-color: darkgray;
+}
+
+
+
+#input2{
+
+    background-color:rgb(253, 253, 253);
+
+}
+
+ 
+
+label{
+
+    text-align: center;
+}
+.commoninput{
+ font-style: italic;
+ font-size: medium;
+
+}
+button{
+background-color: chocolate;
+
+
+
+}
